@@ -1,0 +1,6 @@
+bin/
+*.bak
+*.log
+WinCheck.psproj
+WinCheck.psproj.psbuild
+WinCheck.psprojs
